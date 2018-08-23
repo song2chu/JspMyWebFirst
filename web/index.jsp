@@ -39,20 +39,20 @@
                         </tr>
                         <tr>
                             <td></td>
-                            <td><input id="submit" type="submit" value="เข้าสู่ระบบ" /></td>
+                            <td><input class="btn btn-info" id="submit" type="submit" value="เข้าสู่ระบบ" /></td>
                         </tr>
                     </tbody>
                 </table>
-
-<!--                <div class="form-group col-xs-4">
-                    <h3><label for="username">Name:</label></h3>
-                    <input type="text" class="form-control input-lg"  name="pass" value=""/>
-                    <h3><label for="password:">Password:</label></h3>
-                    <input type="password" class="form-control input-lg"  name="pass" value=""/>
-                    <br>
-                    <button id="submit" type="submit" class="btn btn-info">Login</button>
-                </div>
-            </form>-->
+            </form>
+            <!--                <div class="form-group col-xs-4">
+                                <h3><label for="username">Name:</label></h3>
+                                <input type="text" class="form-control input-lg"  name="pass" value=""/>
+                                <h3><label for="password:">Password:</label></h3>
+                                <input type="password" class="form-control input-lg"  name="pass" value=""/>
+                                <br>
+                                <button id="submit" type="submit" class="btn btn-info">Login</button>
+                            </div>
+            -->
         </div>
     </body>
 </html>
